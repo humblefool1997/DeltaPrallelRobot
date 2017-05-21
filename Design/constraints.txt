@@ -1,0 +1,5 @@
+The design constraints are mainly found in the following parameters
+I along with my team have started work on this project
+The design parameters that are identified are key aspects that are requried to 
+this procject.
+The main project is divided into several design steps and key contraints are yet to identified.
